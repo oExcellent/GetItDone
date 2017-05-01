@@ -225,7 +225,7 @@ So imagine Wright’s surprise when Kaufmann called him at home early on Sunday 
   
 <!-- End Page Content -->
 </div>
-<!-- Add Google Maps -->
+<!-- Add Google Maps 
 <div id="googleMap" style="height:400px;" class="w3-grayscale-max"></div>
 <script>
 function myMap() {
@@ -242,9 +242,12 @@ function myMap() {
   });
   marker.setMap(map);
 }
-</script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
+
+
+</script>-->
 <!--
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
+
 To use this code on your website, get a free API key from Google.
 Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
 -->

@@ -4,15 +4,15 @@
 			<div class="footer-left">
 
 				<p class="footer-links">
-					<a href="../../../index.php">Home</a>
+					<a href="http://devmw.com/">Home</a>
 					·
-					<a href="../../../..myWork.php">Work</a>
+					<a href="http://devmw.com/MaxWaltersPortfolio/Pages/myWork.php">Work</a>
 					·
 					<a href="#ht"> <img src="../../Assets/top.png" alt ="back 2 top image" height = "10" width= "10"></a>
 					·
-					 <a href="contact.php">Contact Form</a>
+					 <a href="http://devmw.com/MaxWaltersPortfolio/Pages/contact.php">Contact Form</a>
 					·
-					 <a href="about.php">About</a>
+					 <a href="http://devmw.com/MaxWaltersPortfolio/Pages/about.php">About</a>
 					 
 				</p>
 
