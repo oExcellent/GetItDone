@@ -135,13 +135,13 @@ include('../Structure/Header.php');
         <li class="w3-padding">“It is easier to resist at the beginning than at the end.”
 <br>– Leonardo da Vinci</li>
       </ul>
-
+		<h1 class="messages" >Peolpe who broke the habbit</h1>
       <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
         <div class="w3-third w3-margin-bottom">
           <img src="../Assets/dalai-lama.jpg" alt="dalai-lama.jpg" style="width:100%" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>The Dalai Lama</b></p>
-            <p class="w3-opacity">Fri 27 Nov 2016</p>
+            <p class="w3-opacity"></p>
             <p>a great spiritual leader who travels the world teaching about compassion.</p>
             <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Learn More</button>
           </div>
@@ -150,7 +150,7 @@ include('../Structure/Header.php');
           <img src="../Assets/frank-lyold.jpg" alt="Frank Lloyd Wright.jpg" style="width:100%" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>Frank Lloyd Wright</b></p>
-            <p class="w3-opacity">Sat 28 Nov 2016</p>
+            <p class="w3-opacity"></p>
             <p>American architect designed his most famous house at the age of 67—in two hours.</p>
             <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal2').style.display='block'">Learn More</button>
           </div>
@@ -159,7 +159,7 @@ include('../Structure/Header.php');
           <img id="samuel" src="../Assets/samuel-johnson.jpg" alt="Samuel Johnson.jpg" style="width:100%" class="w3-hover-opacity">
           <div class="w3-container w3-white">
             <p><b>Samuel Johnson</b></p>
-            <p class="w3-opacity">Sun 29 Nov 2016</p>
+            <p class="w3-opacity"></p>
             <p>The great English writer best known for his monumental dictionary.</p>
             <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal3').style.display='block'">Learn More</button>
           </div>
